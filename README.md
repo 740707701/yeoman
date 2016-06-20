@@ -15,7 +15,6 @@
 可以指定版本的生成器      
    ```  npm install -g generator-angular@0.7.0  ```      
 使用生成器generator搭建你的应用      
-   ```  yo  ```  
-   ``` yo angular  ```  
+
     
 
